@@ -35,25 +35,25 @@ La siguiente aplicación es una herramienta enfocada a la gestión de tareas del
 ## Usar el programa
 
 1. Agregar tareas
-```
+
 -Escribe un título y una descripción.
 -Usa el calendario para seleccionar la fecha límite.
 -Selecciona la hora y los minutos del plazo.
 -Haz clic en "Agregar tarea".
-```
+
 ---
 
 2. Eliminar tareas
-```
+
 -Escribe el título exacto de la tarea en el campo de título.
 -Haz clic en "Eliminar tarea".
-```
+
 ---
 3.Visualización de tareas
-```
+
 -Todas las tareas aparecerán en una tabla con su título, descripción y fecha límite.
 -Los colores indican el estado de cada tarea (verde, amarillo o rojo).
 *Verde: Más de 30 minutos restantes.
 *Amarillo: 30 minutos o menos para el vencimiento.
 *Rojo: La fecha límite ya pasó.
-```
+

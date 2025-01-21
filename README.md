@@ -26,5 +26,8 @@ La siguiente aplicación es una herramienta enfocada a la gestión de tareas del
   pip install tkcalendar
   pip install json
   pip install pandas
-
+```
+3. Ejecuta el programa
+```
+  python3 GestorTareas.py
 ```

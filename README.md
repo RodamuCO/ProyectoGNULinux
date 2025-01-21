@@ -59,3 +59,5 @@ La siguiente aplicación es una herramienta enfocada a la gestión de tareas del
      - **Rojo**: La fecha límite ya pasó.  
 
 
+# Licencia
+Este proyecto está bajo la Licencia MIT. 

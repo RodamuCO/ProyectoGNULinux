@@ -16,6 +16,15 @@ La siguiente aplicación es una herramienta enfocada a la gestión de tareas del
 
 ## Instalación
 1. Clonar este repositorio
+```
+   git clone https://github.com/RodamuCO/ProyectoGNULinux
+   cd ProyectoGNULinux
+```
+2. Instalar las dependencias de python en caso de no tenerlas instaladas
+```
+  pip install tk 
+  pip install tkcalendar
+  pip install json
+  pip install pandas
 
-   git clone 
- 
+```
